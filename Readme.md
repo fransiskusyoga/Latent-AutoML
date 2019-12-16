@@ -1,0 +1,2 @@
+# AutoML latent space serach using differential magnitude
+The system calculate the dirrenetial of unconnected layer and expand the network size accosding to the gradient magnitude. The latent layer with greateset gradient will be expanded. The system is tested on Lenet dataset. 
